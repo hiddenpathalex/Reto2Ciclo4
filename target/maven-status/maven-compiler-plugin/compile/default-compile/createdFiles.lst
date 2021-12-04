@@ -1,0 +1,11 @@
+mintic\misiontic\ciclo4\reto2\reto2\service\ProductService.class
+mintic\misiontic\ciclo4\reto2\reto2\controller\ProductController.class
+mintic\misiontic\ciclo4\reto2\reto2\repository\UserRepository.class
+mintic\misiontic\ciclo4\reto2\reto2\model\Product.class
+mintic\misiontic\ciclo4\reto2\reto2\controller\UserController.class
+mintic\misiontic\ciclo4\reto2\reto2\service\UserService.class
+mintic\misiontic\ciclo4\reto2\reto2\repository\ProductRepository.class
+mintic\misiontic\ciclo4\reto2\reto2\crudRepository\ProductCrudRepository.class
+mintic\misiontic\ciclo4\reto2\reto2\crudRepository\UserCrudRepository.class
+mintic\misiontic\ciclo4\reto2\reto2\model\User.class
+mintic\misiontic\ciclo4\reto2\reto2\Reto2Application.class
